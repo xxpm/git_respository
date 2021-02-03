@@ -6,3 +6,4 @@ Git change tracks test
 Createing a new branch is quickly!
 Switch to new branch feature!
 ADD SIMPLE featrue1   master add
+ADD BRANCH FOR DE
